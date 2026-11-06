@@ -11,6 +11,19 @@
 
 - ⚡ Fun fact **Call me as KRP**
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/kavishka07">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavishka07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishka07&theme=dark&hide_border=true"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kavishka ramindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavishka ramindu" height="30" width="40" /></a>
