@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kavishka ramindu</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishka07&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka07" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavishka07&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka07" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
